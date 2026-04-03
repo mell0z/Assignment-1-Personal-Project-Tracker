@@ -1,11 +1,8 @@
 favorites.txt 
 1. Raspberry jam
 2. Music
-3. Baked goods
-4. Movies
-5. Walks
-6. Nature
-7. Summer
-8. Flowers
-9. Cats
-10. Reading
+3. Walks
+4. Summer
+5. Flowers
+6. Cats
+7. Reading

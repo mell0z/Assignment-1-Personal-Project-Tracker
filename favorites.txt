@@ -1,1 +1,11 @@
 favorites.txt 
+1. Raspberry jam
+2. Music
+3. Baked goods
+4. Movies
+5. Walks
+6. Nature
+7. Summer
+8. Flowers
+9. Cats
+10. Reading
